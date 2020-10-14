@@ -20,7 +20,7 @@ class Personne{
     }
 
 public class Architecte extends Personne{
-    ……………
+    yeyeyeyeyeyey
     ……………
     public Architecte(String nom, String prenom, String conseilRegional, boolean
     inscriptionOrdre, Adresse adresse, String telephone)
