@@ -18,11 +18,11 @@ public class Traitement {
         System.out.println(archi1.toString());
         
         
-        System.out.println("\nUtilisation de setTelephone avec en entrer 06.78.12.65.32 puis uilitsation de getTelephone :");
+        System.out.println("\nUtilisation de setTelephone avec en entrer 06.78.12.65.32 puis utilisation de getTelephone :");
         archi1.setTelephone("06.78.12.65.32");
         System.out.println(archi1.getTelephone());
         
-        System.out.println("\nUtilisation de setTelephone avec en entrer 0678126532 puis uilitsation de getTelephone :");
+        System.out.println("\nUtilisation de setTelephone avec en entrer 0678126532 puis utilisation de getTelephone :");
         archi1.setTelephone("0678126532");
         System.out.println(archi1.getTelephone());
         
